@@ -1,4 +1,4 @@
-# TravelTide Perk Recommendation
+# TravelTide Perk Segmentation Project
 
 This project is part of the Masterschool Data Analyst program and focuses on developing a **personalized perk recommendation system** for the fictional travel platform **TravelTide**.
 -
