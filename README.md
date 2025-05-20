@@ -59,7 +59,6 @@ This includes:
 ✅ Loyal Vacationers – Ages 30–55
 ✅ Frequent Flyers – Ages 25–45
 ✅ Retired Relaxers – Age 55+
-✅ Unclassified – 
   
 
 
